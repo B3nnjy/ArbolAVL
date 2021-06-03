@@ -48,7 +48,7 @@ int main(){
 				if (Buscar(num, p) == NULL) {
 					p = Insertar(num, p);
 				}else {
-					printf("El dato ya esta en el arbol\n");
+					printf("El dato ya esta en el arbol.\n");
 				}
 
 				getchar();
