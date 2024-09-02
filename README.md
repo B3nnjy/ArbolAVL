@@ -1,7 +1,7 @@
-##Arbol binario auto balanceable
-###Menu
+## Arbol binario auto balanceable
+Menu
 <img src="Menu.png" width="500" height="500">
-###Auto llenado
+Auto llenado
 <img src="AutoLlenado.png" width="500" height="500">
-###Arbol AVL
+Arbol AVL
 <img src="Arbol.png" width="500" height="500">
